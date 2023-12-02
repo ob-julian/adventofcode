@@ -1042,6 +1042,6 @@ def lastNumToNum(input):
             if inp != input[-i:]:
                 return int(inp[0])
 
-print("1 Advent of Code")
+print("1st Advent of Code")
 print("1.1: ", solver1(input))
 print("1.2: ", solver2(input))
