@@ -113,5 +113,5 @@ function solve2(gameArray) {
 const gameArray = getGameArray();
 
 console.log('2nd  Advent of Code');
-console.log('1.1: ', solve1(gameArray));
-console.log('1.2: ', solve2(gameArray));
+console.log('1: ', solve1(gameArray));
+console.log('2: ', solve2(gameArray));

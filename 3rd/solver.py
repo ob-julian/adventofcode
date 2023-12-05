@@ -109,5 +109,5 @@ def solver2 (input):
 input = read_file()
 
 print("3rd Advent of Code")
-print("1.1: ", solver1(input))
-print("1.2: ", solver2(input))
+print("1: ", solver1(input))
+print("2: ", solver2(input))
