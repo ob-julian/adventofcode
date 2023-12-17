@@ -154,6 +154,6 @@ function solve2(filePath = 'input.txt') {
 }
 
 
-console.log('7th  Advent of Code');
+console.log('14th  Advent of Code');
 console.log('1: ', solve1());
 console.log('2: ', solve2());
